@@ -2,6 +2,10 @@
     margin: 0;
   }
 
+    body {
+    background: pink;
+  }
+
   div {
     width: 100%;
     background: pink;
